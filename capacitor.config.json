@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BBL_OSS_FrontEnd",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

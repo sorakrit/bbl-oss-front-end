@@ -1,0 +1,8 @@
+{
+  "name": "BBL_OSS_FrontEnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f43015c8"
+}
